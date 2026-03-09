@@ -6,3 +6,4 @@ jupyter
 notebook
 python-louvain
 openpyxl
+pyvis
