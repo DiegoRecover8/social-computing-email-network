@@ -7,3 +7,4 @@ notebook
 python-louvain
 openpyxl
 pyvis
+seaborn
